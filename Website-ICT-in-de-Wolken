@@ -1,0 +1,50 @@
+    
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+      <script src="game.js"></script>
+      <script src="cloud.js"></script>
+      <title>Ictindewolken Website</title>
+  </head>
+  <body>
+    <h1>Website Ict in de Wolken</h1>
+      <h2>Modules</h2>
+        <p>Ik heb de volgende modules gedaan:</p>
+        <ul>
+          <li>Ict in de Wolken omgeving-0</li>
+          <li>JavaScript voor games P5-0</li>
+          <li>Blender-0</li>
+          <li>Linux-0</li>
+          <li>Python-0</li>
+      </ul>
+    <h2> Projecten </h2>
+      <p>Ik heb de volgende projecten gedaan:</p>
+      <ul>
+        <li>Gamedevelopment-0 (in Javascript p5)</li>
+        <li>Blender-0</li>
+        <li>Security</li>
+      </ul>
+    <h3>Blok 1 2019</h3>
+      <p>Voor het blok tussen de herfstvakantie en de kerstvakantie 2019 ga ik een eigen project doen: <i>Gamedevelopment in Python</i>.
+      </br>De reden dat ik graag een eigen project en niet een van de gegeven projecten wil doen, is omdat ik vorig jaar tijdens het gamedevelopment-0 project erachter ben gekomen dat ik software schrijven heel leuk vind en dat wil ik graag meer doen.
+      </br>Het enige project dit blok waarbij je dit doet, heb ik dus vorig jaar gedaan en het zou niet nuttig of uitdagend zijn omdat opnieuw te doen.
+      </br>Toen ik de Python-0 module deed, was het idee om een simpel spel te maken, maar ik kreeg al snel zoveel ideeen dat het te veel was om als module te doen.
+      </br> Met dit project wil ik dus het stukje code dat ik voor de module had gemaakt uitwerken tot een groter geheel en zoveel mogelijk van mijn ideeen ten uitvoer brengen.</p>
+      
+      <h4>Het concept</h4>
+        <p>Het idee is om een text-based roleplaying game te maken waarbij de speler steeds een keuze krijgt tussen een aantal acties, en zo invloed heeft op de verhaallijn van het spel.
+        </br>Voor de module heb ik een stuk code geschreven dat de speler de mogelijkheid geeft zich tussen de locaties in het spel te bewegen, wat qua beschrijvingen van de locaties ook nog moet worden uitgewerkt.
+        </br>Verder heb ik het idee van een aantal verhalen die ik wil uitwerken en moet de speler natuurlijk verschillende acties kunnen ondernemen.
+        </br>Wat ik denk dat daarna ook nog mogelijk moet zijn, is het aantal locaties en de verhaallijnen die daarbij horen uitbreiden en dingen toevoegen als wapens en vijanden om tegen te vechten
+        </br>Ik vind het moeilijk om in te schatten hoeveel tijd het bovenstaande kost, maar ik heb anders nog meer ideeen die ik zou kunnen uitwerken</p>
+        </br>Ik zal de code hiervan schrijven in Python. Hiervoor heb ik Python gedownload op mijn laptop
+        
+      <h4>Begeleiding</h4>
+        </br>Bij dit project ga ik niet of nauwelijks begeleiding nodig hebben, want het meeste kan ik opzoeken en als ik ergens niet uitkom, kan ik met Zazi Nieuwenhuijs overleggen, want zij gaat ook dit project doen, maar we maken elk onze eigen game.</p>
+    
+     <h3>Blok 1 2018: Gamedevelopment-0 (in Javascript p5)</h3>
+      <h4 style="font-family: Courier New, serif; font-size: 16; color: #f2b3ed">Violet Hill</h4>  
+</body>
+</html>
